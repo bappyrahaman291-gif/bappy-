@@ -1,0 +1,6 @@
+{
+  "name": "Fiverr Client Social Identifier",
+  "description": "Identify and find Fiverr client's social media profiles (LinkedIn, Twitter, Facebook, Instagram) using customized search operators and Google-grounded Gemini AI. Upload screenshots or type usernames to automatically discover real profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
